@@ -4,11 +4,11 @@ source "https://rubygems.org"
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 #
 #     bundle exec jekyll serve
-gem "jekyll", "~> 4.3.4"
+gem "jekyll", "~> 4.0.0"
 
 # Plugins
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.17"
+  gem "jekyll-feed", "~> 0.12"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -19,4 +19,6 @@ install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
 end
 
 # Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
+gem "wdm", "~> 0.2.0", :install_if => Gem.win_platform?
+
+gem "webrick", "~> 1.9"
