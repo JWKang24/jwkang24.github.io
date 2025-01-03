@@ -13,14 +13,25 @@
 
           {% for item in page.items %}
           <div class="work-item">
-            <img
-              src="{{ item.image.src | absolute_url }}"
-              alt="{{ item.image.alt }}"
-              class="work-bubble"
-            />
             <span class="work-text">
               <strong>{{ item.title }}</strong>
-              &mdash;
+            </span>
+            {% if item.url %}
+              <a href="{{ item.url }}" target="_blank">
+                <img
+                  src="{{ item.image.src | absolute_url }}"
+                  alt="{{ item.image.alt }}"
+                  class="work-bubble {% if item.enlarge_image %}work-bubble-large{% endif %} work-image-right"
+                />
+              </a>
+            {% else %}
+              <img
+                src="{{ item.image.src | absolute_url }}"
+                alt="{{ item.image.alt }}"
+                class="work-bubble {% if item.enlarge_image %}work-bubble-large{% endif %} work-image-right"
+              />
+            {% endif %}
+            <span class="work-text">
               {{ item.description }}
             </span>
           </div>

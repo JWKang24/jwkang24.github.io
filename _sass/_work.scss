@@ -1,12 +1,37 @@
+// .work-item {
+//   clear: both;
+//   overflow: hidden;
+//   padding-bottom: 3em;
+// }
 .work-item {
-  clear: both;
-  overflow: hidden;
-  padding-bottom: 3em;
+  margin-bottom: 20px; /* Adds spacing between work items */
+  overflow: hidden; /* Clear floats within the container */
+  padding: 10px; /* Add padding to the work item container */
+  border-bottom: 1px solid #ddd; /* Optional: Add a bottom border for better separation */
 }
+
+.work-image-right {
+  float: right;
+  width: 30%; /* Adjust the size as needed */
+  height: auto;
+  margin-left: 20px; /* Space between the text and the image */
+}
+
+.work-text {
+  display: block;
+  overflow: hidden; /* Ensure the text wraps around the floated image */
+  clear: both; /* Ensure the text starts below the title */
+}
+
 
 .work-bubble {
   float: left;
   padding-right: 20px;
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
+}
+
+.work-bubble-large {
+  width: 50%; /* Adjust the size as needed */
+  height: auto;
 }
