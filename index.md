@@ -6,5 +6,9 @@ profile_picture:
 ---
 
 <p>
-  Welcome! <br> I am Joonwon Kang, a Robotics engineer with an interdisciplinary background both in hardware and software development. <br> <br> I am currently pursuing a master's degree in Mechanical Engineering at Stanford University. During my undergraduate studies at Seoul National University, I majored in both Mechanical Engineering (ME) and Electrical and Computer Engineering (ECE). <br> <br> I enjoy solving real-world problems through discussions that incorporate diverse perspectives, and I am open to exploring such opportunities!
+Welcome!<br> I am a robotics engineer with an interdisciplinary background in both hardware and software development. I have a strong interest in creating robotic systems that can operate reliably in diverse and unstandardized environments.
+<br> <br> 
+Currently, I am pursuing a master's degree in Mechanical Engineering at Stanford University. During my undergraduate studies at Seoul National University, I majored in both Mechanical Engineering and Electrical and Computer Engineering.
+<br> <br> 
+I enjoy solving real-world problems through discussions that include diverse perspectives, and I am eager to explore new opportunities!
 </p>
