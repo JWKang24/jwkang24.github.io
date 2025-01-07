@@ -32,7 +32,7 @@
               />
             {% endif %}
             <span class="work-text">
-              {{ item.description }}
+              {{ item.description | replace: '<a href=', '<a target="_blank" href=' | markdownify }}
             </span>
           </div>
           {% endfor %}
