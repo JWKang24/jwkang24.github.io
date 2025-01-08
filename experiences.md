@@ -26,7 +26,7 @@ items:
     image:
       src: /assets/img/work/UROP.png
       alt: UROP
-    description: -[Seoul National University Biorobotics Laboratory](https://www.biorobotics.snu.ac.kr/){:target="_blank"}, Prof. Kyu-Jin Cho (01/2021 ~ 06/2021) <br>
+    description: -[Seoul National University Biorobotics Laboratory](https://www.biorobotics.snu.ac.kr/){:target="_blank"}, Prof. Kyu-Jin Cho (01/2021 ~ 06/2021) <br> As an Undergraduate Research Opportunity Program (UROP) participant, I worked on improving a prototype of an active hamstring assisting wearable, starting with fabricating the whole structure again with several design improvements for user comfort. <br>Through separate experiments, I figured that the mechanical delay is the main reason for the lack of assistance during gait with fast speed. To address this issue, I developed a PID control algorithm for a faster motor and explored the idea of predicting gait states using encoder output, allowing for earlier activation of assistance.
 ---
 
 This section involves work and research experiences I participated through affiliation. <br> For research projects, you can click on images for more information.
