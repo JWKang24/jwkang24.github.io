@@ -3,6 +3,12 @@ layout: work
 title: Experiences
 slug: /experiences
 items:
+  - title: Research on Autonomous Surgical Robot Assistant
+    url: https://github.com/JWKang24/OS_Teleop_Extension
+    image:
+      src: /assets/img/work/osteleop.png
+      alt: CHARM
+    description: -[Stanford University Collaborative Haptics and Robotics in Medicine Lab](https://charm.stanford.edu/){:target="_blank"} (01/2025 ~ 04/2025) <br> 
   - title: Full-time Planning/Prediction SW Engineer
     image:
       src: /assets/img/work/RideFlux.png

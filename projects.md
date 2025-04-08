@@ -3,6 +3,12 @@ layout: work
 title: Projects
 slug: /projects
 items:
+  - title: Full-stack Robotics Software for Voice-instructed Autonomous Task Completion
+    url: https://sites.google.com/stanford.edu/me-326-group-project-team-4/home?authuser=6
+    image:
+      src: /assets/img/work/ME326.png
+      alt: ME326
+    description: -Class Project, Collaborative Robotics (01/2025 ~ 03/2025) <br>
   - title: Safe Handling of Intersection Events under other agents' Latent Driving styles (SHIELD)
     url: https://drive.google.com/file/d/1KRAFTa4o2UpF76HvAf2jZufkjS_2qSa9/view?usp=sharing
     image:
