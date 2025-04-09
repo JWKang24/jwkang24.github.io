@@ -8,7 +8,7 @@ items:
     image:
       src: /assets/img/work/osteleop.png
       alt: CHARM
-    description: -[Stanford University Collaborative Haptics and Robotics in Medicine Lab](https://charm.stanford.edu/){:target="_blank"} (01/2025 ~ 04/2025) <br> 
+    description: -[Stanford University Collaborative Haptics and Robotics in Medicine Lab](https://charm.stanford.edu/){:target="_blank"} (01/2025 ~ 04/2025) <br> This project focused on enabling autonomous assistance in robot-assisted surgery using additional robotic arms beyond those manually operated by the surgeon. To support data collection and scalable testing, I built a simulation environment in Isaac Sim using [ORBIT-Surgical](https://github.com/orbit-surgical/orbit-surgical){:target="_blank"} assets. The setup includes the teleoperation of a simulated da Vinci robot arms via both an existing interface and the Phantom Omni device, allowing flexible experimentation for learning-based control systems.
   - title: Full-time Planning/Prediction SW Engineer
     image:
       src: /assets/img/work/RideFlux.png
