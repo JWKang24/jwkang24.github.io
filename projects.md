@@ -3,6 +3,12 @@ layout: work
 title: Projects
 slug: /projects
 items:
+  - title: Graph Reasoning-Tailored (GReaT) VLMs
+    url: https://cs224r.stanford.edu/projects/pdfs/CS224R_Final_Project_Report-2.pdf
+    image:
+      src: /assets/img/work/CS224R.png
+      alt: CS224R
+    description: -Class Project, Deep Reinforcement Learning (04/2025 ~ 06/2025) <br>
   - title: Full-stack Robotics Software for Voice-instructed Autonomous Task Completion
     url: https://sites.google.com/stanford.edu/me-326-group-project-team-4/home?authuser=6
     image:
