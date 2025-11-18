@@ -3,6 +3,11 @@ layout: work
 title: Experiences
 slug: /experiences
 items:
+  - title: Robotics, Runtime Intern
+    image:
+      src: /assets/img/work/PlusAI.png
+      alt: PlusAI Inc.
+    description: -[PlusAI, Inc.](https://plus.ai/){:target="_blank"} (06/2025 ~ 09/2025) <br> 
   - title: Research on Autonomous Surgical Robot Assistant
     url: https://github.com/JWKang24/OS_Teleop_Extension
     image:
@@ -13,7 +18,7 @@ items:
     image:
       src: /assets/img/work/RideFlux.png
       alt: RideFlux Inc.
-    description: -[RideFlux Inc.](https://www.eng.rideflux.com/){:target="_blank"} (07/2023 ~ 07/2024) <br> I developed, verified, and maintained Planning/Prediction features for autonomous vehicles using C++ and ROS. Specifically, my role was to improve the decision-making and prediction performance by using additional information, such as road structures and previous decisions. One of my significant projects involved integrating a function to handle potential road users in obstructed areas without making the vehicle overly conservative. <br> During this period, the company achieved the first unmanned vehicle license in South Korea, and I contributed by developing features for safe lane changes, Operational Design Domain(ODD) checking, etc.
+    description: -[RideFlux, Inc.](https://www.eng.rideflux.com/){:target="_blank"} (07/2023 ~ 07/2024) <br> I developed, verified, and maintained Planning/Prediction features for autonomous vehicles using C++ and ROS. Specifically, my role was to improve the decision-making and prediction performance by using additional information, such as road structures and previous decisions. One of my significant projects involved integrating a function to handle potential road users in obstructed areas without making the vehicle overly conservative. <br> During this period, the company achieved the first unmanned vehicle license in South Korea, and I contributed by developing features for safe lane changes, Operational Design Domain(ODD) checking, etc.
   - title: Research on a Soft Bending Actuator with Variable Stiffness and Proprioceptive Sensing
     url: https://ieeexplore.ieee.org/document/10252027
     image:

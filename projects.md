@@ -3,6 +3,12 @@ layout: work
 title: Projects
 slug: /projects
 items:
+  - title: Multi-agent Planning Robust to Interference by Teleoperated Agent
+    url: https://drive.google.com/file/d/13uC7DGESZeHh1t-Xg03tvhSZUnEw0slo/view?usp=sharing
+    image:
+      src: /assets/img/work/AA276.png
+      alt: AA276
+    description: -Class Project, Principles of Safety-Critical Autonomy (04/2025 ~ 06/2025) <br>
   - title: Graph Reasoning-Tailored (GReaT) VLMs
     url: https://cs224r.stanford.edu/projects/pdfs/CS224R_Final_Project_Report-2.pdf
     image:
