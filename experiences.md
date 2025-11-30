@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/work/PlusAI.png
       alt: PlusAI Inc.
-    description: -[PlusAI, Inc.](https://plus.ai/){:target="_blank"} (06/2025 ~ 09/2025) <br> 
+    description: -[PlusAI, Inc.](https://plus.ai/){:target="_blank"} (06/2025 ~ 09/2025) <br> During my internship, I focused on improving the self-driving engagement flow with a redundant system for fallback and enhancing the vehicle’s response to emergency vehicle detection. I designed and implemented a robust full-stack fallback mechanism, complete with user-facing UI elements and backend data-extraction tools to ensure system reliability and facilitate debugging. In parallel, I collected siren data across diverse environmental conditions and developed an integrated real-time pipeline that processed detection signals and delivered them seamlessly to the autonomy stack.
   - title: Research on Autonomous Surgical Robot Assistant
     url: https://github.com/JWKang24/OS_Teleop_Extension
     image:
