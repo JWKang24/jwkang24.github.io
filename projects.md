@@ -10,7 +10,7 @@ items:
       alt: AA276
     description: -Class Project, Principles of Safety-Critical Autonomy (04/2025 ~ 06/2025) <br>
   - title: Graph Reasoning-Tailored (GReaT) VLMs
-    url: https://cs224r.stanford.edu/projects/pdfs/CS224R_Final_Project_Report-2.pdf
+    url: https://cs224r.stanford.edu/spring_2025/projects/pdfs/CS224R_Final_Project_Report-2.pdf
     image:
       src: /assets/img/work/CS224R.png
       alt: CS224R
